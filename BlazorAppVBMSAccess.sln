@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppVBMSAccess", "BlazorAppVBMSAccess\BlazorAppVBMSAccess\BlazorAppVBMSAccess.csproj", "{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppVBMSAccess.Client", "BlazorAppVBMSAccess\BlazorAppVBMSAccess.Client\BlazorAppVBMSAccess.Client.csproj", "{81197324-1347-4956-9318-6BE71B728744}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlazorAppVBMSAccess(Code)", "BlazorAppVBMSAccess(Code)\BlazorAppVBMSAccess(Code).vbproj", "{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E18B6BB1-F414-4465-B742-256FA9D7033E}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\DELL\Desktop\ReadMe.rtf = C:\Users\DELL\Desktop\ReadMe.rtf
+	EndProjectSection
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlazorAppVBMSAccess.Share", "BlazorAppVBMSAccess.Share\BlazorAppVBMSAccess.Share.vbproj", "{8C08C672-953A-4A0F-8EE2-D652B131AC9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Debug|x64.ActiveCfg = Debug|x64
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Debug|x64.Build.0 = Debug|x64
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Release|x64.ActiveCfg = Release|x64
+		{E7DA4B84-0EFA-45F4-95B3-16EB062B1558}.Release|x64.Build.0 = Release|x64
+		{81197324-1347-4956-9318-6BE71B728744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Debug|x64.Build.0 = Debug|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Release|x64.ActiveCfg = Release|Any CPU
+		{81197324-1347-4956-9318-6BE71B728744}.Release|x64.Build.0 = Release|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Debug|x64.Build.0 = Debug|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Release|x64.ActiveCfg = Release|Any CPU
+		{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}.Release|x64.Build.0 = Release|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Debug|x64.Build.0 = Debug|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Release|x64.ActiveCfg = Release|Any CPU
+		{8C08C672-953A-4A0F-8EE2-D652B131AC9E}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513A4C74-6825-41B5-B888-E85F3ED93DFF}
+	EndGlobalSection
+EndGlobal
