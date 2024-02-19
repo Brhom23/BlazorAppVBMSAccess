@@ -9,11 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppVBMSAccess.Client"
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlazorAppVBMSAccess(Code)", "BlazorAppVBMSAccess(Code)\BlazorAppVBMSAccess(Code).vbproj", "{3DFF6AE3-E7BA-41A3-B75C-3BCDA5BC5583}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E18B6BB1-F414-4465-B742-256FA9D7033E}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\DELL\Desktop\ReadMe.rtf = C:\Users\DELL\Desktop\ReadMe.rtf
-	EndProjectSection
-EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlazorAppVBMSAccess.Share", "BlazorAppVBMSAccess.Share\BlazorAppVBMSAccess.Share.vbproj", "{8C08C672-953A-4A0F-8EE2-D652B131AC9E}"
 EndProject
 Global
