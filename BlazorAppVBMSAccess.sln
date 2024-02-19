@@ -11,6 +11,11 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlazorAppVBMSAccess(Code)",
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlazorAppVBMSAccess.Share", "BlazorAppVBMSAccess.Share\BlazorAppVBMSAccess.Share.vbproj", "{8C08C672-953A-4A0F-8EE2-D652B131AC9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{065F78F4-91CB-451C-A943-73D1DE860F40}"
+	ProjectSection(SolutionItems) = preProject
+		BlazorAppVBMSAccess\BlazorAppVBMSAccess\ReadMe.rtf = BlazorAppVBMSAccess\BlazorAppVBMSAccess\ReadMe.rtf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
